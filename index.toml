@@ -91,6 +91,11 @@ hash = "ef7df21fb6745a9bbd461a26b30d5c3c0488f872ff1254afd89cc9e746784d95"
 metafile = true
 
 [[files]]
+file = "mods/geckolib-fabric.toml"
+hash = "e80a84a680325d32cb30d0fccad6be9edbee9d3a1dad06547f065960905228d2"
+metafile = true
+
+[[files]]
 file = "mods/graveyard-smash.toml"
 hash = "46259849e980a07ce1c85df18fd9339ff8c8a21383b657b6fa3978504ce639ec"
 metafile = true
