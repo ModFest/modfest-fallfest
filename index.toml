@@ -179,7 +179,3 @@ metafile = true
 file = "mods/torch-out.toml"
 hash = "00b46798b33e3ee765974b9f3787295a9d9c36527fc078d14e5921f06d5f028d"
 metafile = true
-
-[[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
