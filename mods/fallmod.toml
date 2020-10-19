@@ -1,0 +1,12 @@
+name = "Fallmod"
+filename = "fallmod-1.0.0+1.16.3.jar"
+side = "both"
+
+[option]
+optional = false
+default = false
+
+[download]
+url = "https://github.com/valoeghese/Fallmod/releases/download/1.0.0/fallmod-1.0.0+1.16.3.jar"
+hash-format = "sha256"
+hash = "6A53DC29CBBB2D5D30D80C94748B43B13CB76979A24015DC2DDC258A29F37F70"

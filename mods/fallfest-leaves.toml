@@ -1,0 +1,14 @@
+name = "Fallfest Leaves"
+filename = "fallfest_leaves-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3085/717/fallfest_leaves-1.0.1.jar"
+hash-format = "murmur2"
+hash = "3082181889"
+
+[update]
+[update.curseforge]
+file-id = 3085717
+project-id = 413217
+release-channel = "beta"

@@ -1,0 +1,12 @@
+name = "Basic Billboards"
+filename = "basicbillboards-0.0.1-alpha.jar"
+side = "both"
+
+[option]
+optional = false
+default = false
+
+[download]
+url = "https://github.com/FoundationGames/BasicBillboards/releases/download/0.0.1-alpha/basicbillboards-0.0.1-alpha.jar"
+hash-format = "sha256"
+hash = "1CCF33533FAE8017A661360248B5EBA5CBBEC02B66495A3422353250DBB681B9"

@@ -1,0 +1,12 @@
+name = "FallPano"
+filename = "fallpano-1.0.1.jar"
+side = "both"
+
+[option]
+optional = false
+default = false
+
+[download]
+url = "https://github.com/Earthcomputer/FallPano/releases/download/v1.0/fallpano-1.0.jar"
+hash-format = "sha256"
+hash = "162659F387B5A881CE506FE91A508449FF9D3804450428EEB72C15A082F88FEE"

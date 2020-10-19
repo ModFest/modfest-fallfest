@@ -1,0 +1,10 @@
+name = "FallFest"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "10b6a42da6da8b92333e2ad92f326395788005138e6757ce7e7dc130de18b816"
+
+[versions]
+fabric = "0.10.2+build.210"
+minecraft = "1.16.3"

@@ -1,0 +1,14 @@
+name = "Doot in the Night"
+filename = "DootInTheNight-1.0.0+1.16.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3078/497/DootInTheNight-1.0.0+1.16.3.jar"
+hash-format = "murmur2"
+hash = "2366518184"
+
+[update]
+[update.curseforge]
+file-id = 3078497
+project-id = 412838
+release-channel = "beta"

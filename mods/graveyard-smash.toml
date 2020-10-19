@@ -1,0 +1,12 @@
+name = "Graveyard Smash"
+filename = "graveyard-smash-1.0.0.jar"
+side = "both"
+
+[option]
+optional = false
+default = false
+
+[download]
+url = "https://github.com/MaroonAngel/Graveyard-Smash/releases/download/1.0.0/graveyard-smash-1.0.0.jar"
+hash-format = "sha256"
+hash = "D2B7A054EA8E229DD1E57E55FD9A04CA54EE4115B86851E082CEE9D1B66896ED"

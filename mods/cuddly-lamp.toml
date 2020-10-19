@@ -1,0 +1,12 @@
+name = "Cuddly Lamp"
+filename = "cuddly-lamp-1.0.0.jar"
+side = "both"
+
+[option]
+optional = false
+default = false
+
+[download]
+url = "https://github.com/TheEpicBlock/cuddly-lamp/releases/download/1.0.0/cuddly-lamp-1.0.0.jar"
+hash-format = "sha256"
+hash = "F9C9ABD067BCE742B6A2405675DDB1A8703B3D976CAC37F8551F825C7CE1C4B2"

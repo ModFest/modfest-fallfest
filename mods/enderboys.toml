@@ -1,0 +1,14 @@
+name = "Enderboys"
+filename = "Enderboys-1.0.0-16.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3079/413/Enderboys-1.0.0-16.3.jar"
+hash-format = "murmur2"
+hash = "3865099644"
+
+[update]
+[update.curseforge]
+file-id = 3079413
+project-id = 410823
+release-channel = "beta"

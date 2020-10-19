@@ -1,0 +1,12 @@
+name = "Herobrine Rewoven"
+filename = "herobrine-rewoven-1.0.0+1.16.3.jar"
+side = "both"
+
+[option]
+optional = false
+default = false
+
+[download]
+url = "https://jenkins.thebrokenrail.com/job/Herobrine-Rewoven/job/master/lastSuccessfulBuild/artifact/build/libs/herobrine-rewoven-1.0.0+1.16.3.jar"
+hash-format = "sha256"
+hash = "E1374AB08FEC2DDD83112371819FCC4BAC8DDC701E753E16056120F5C1244478"

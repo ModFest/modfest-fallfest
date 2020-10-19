@@ -1,0 +1,185 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/annulus.toml"
+hash = "d80aa37729acd8e34c1bb60bfd0dfff12990083dfc16024ed14ea7a02483807c"
+metafile = true
+
+[[files]]
+file = "mods/ars-theurgia.toml"
+hash = "78eff5a6bdd5b4c54ffcc20a6e88fbd1d2e81a9c5e286c7f01bc62f7acd8ca5f"
+metafile = true
+
+[[files]]
+file = "mods/basicbillboards.toml"
+hash = "464e9cb8faf46a7547a5c0c3a6081b027c808467954ecfc3f8f98a9eb7bfa42a"
+metafile = true
+
+[[files]]
+file = "mods/carve-my-pumpkin.toml"
+hash = "b4b12b57095c2bdb87c8ed4fbf1e48f7720518f79ce417d010b0f1f3cb6dcb47"
+metafile = true
+
+[[files]]
+file = "mods/collectater.toml"
+hash = "84b2551a4a0055194cd6e35b7c307ee54bccfc7854c12b579f9954c95c8cf84b"
+metafile = true
+
+[[files]]
+file = "mods/configured-keep-inventory.toml"
+hash = "d57415fb6c839dc5b77e48fead3ccfe9ea32938010e556d02e06fa2deac62f9a"
+metafile = true
+
+[[files]]
+file = "mods/cuddly-lamp.toml"
+hash = "bb7fa3e4e25e2bae84429f3157d49bd170073675b1cee1cb081f724fd09b5adc"
+metafile = true
+
+[[files]]
+file = "mods/dark-dungeons.toml"
+hash = "4c78caa57648c468d2bb012e307ca49758e10f1b3bab45f875b9c798ba6a73ad"
+metafile = true
+
+[[files]]
+file = "mods/doot-in-the-night.toml"
+hash = "dda38fad471688a5238cc69de9f4e60bb802ed9179de8d9cacfa79bc12c5e363"
+metafile = true
+
+[[files]]
+file = "mods/enderboys.toml"
+hash = "b218dfed9178a2e9feaefe4df3d139997cc9f5f33e8ded58a0d4579074aa9832"
+metafile = true
+
+[[files]]
+file = "mods/eylium.toml"
+hash = "afba0050aa9080568d8b378dddf5eb0e19e27d0749c3436c83f7d360462ed7f7"
+metafile = true
+
+[[files]]
+file = "mods/f21e.toml"
+hash = "8d322c3d223da1a28a963424261a42e7158c683a4e175484c48883d9eb94fdd2"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "af65aa2fde6742c0178ec0951c25599bf9d1546785fa30fb6024f5d81edd4111"
+metafile = true
+
+[[files]]
+file = "mods/fallfest-2020-ghost.toml"
+hash = "7365cdbf171aec80f96b8036b9be945aaa57935852d16709aaa414cf48204072"
+metafile = true
+
+[[files]]
+file = "mods/fallfest-leaves.toml"
+hash = "adbb4893335e0e0d0153baeec64502797c440764135c6fe09cb983d660d088e3"
+metafile = true
+
+[[files]]
+file = "mods/fallmod.toml"
+hash = "f2212fbe8d18958ca316aec6b486e190ffaaca401fd3edb3af808a5163dd1ada"
+metafile = true
+
+[[files]]
+file = "mods/fallpano.toml"
+hash = "5927be4e50228bb63fab722acb409615df64bc17cdc9f9e73b26ddff00fb2244"
+metafile = true
+
+[[files]]
+file = "mods/fracture.toml"
+hash = "ef7df21fb6745a9bbd461a26b30d5c3c0488f872ff1254afd89cc9e746784d95"
+metafile = true
+
+[[files]]
+file = "mods/graveyard-smash.toml"
+hash = "46259849e980a07ce1c85df18fd9339ff8c8a21383b657b6fa3978504ce639ec"
+metafile = true
+
+[[files]]
+file = "mods/herobrine_rewoven.toml"
+hash = "bb41f1de6b8f0d16723618114ca637f6f0656de06da8860f3728f31e622d93af"
+metafile = true
+
+[[files]]
+file = "mods/ignis-fatuus.toml"
+hash = "2fdeeb4b373d6bf278aff1a8609a33f4f7c2ae350a966eeaa434034efcebf4ec"
+metafile = true
+
+[[files]]
+file = "mods/kingdoms_and_curses.toml"
+hash = "5a72015d0398545ea815bb6fce769b6e89f6193be008d77c2d40095b343ce0b0"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "bcfb188f8f2b7eb27888fc07e222b3b4e4eb100880a5956710cbb393cb08b8db"
+metafile = true
+
+[[files]]
+file = "mods/monster_mash.toml"
+hash = "93fcbe12445a93317553cc0b5a531785a5bc98eb714c0ed9091e269e596f0cac"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.toml"
+hash = "0a581c0aef56aa21aeb6a735b76b119c28104d60905129bf785c4fcf80efb031"
+metafile = true
+
+[[files]]
+file = "mods/phonos.toml"
+hash = "585451de5a34a4c3e86a41f26b991de1660f668510d49077cc806474a7ba2143"
+metafile = true
+
+[[files]]
+file = "mods/pinghats.toml"
+hash = "7e16f9171252ab126e581699df6f1b57a31cc1f45875717eaa185b92b625cf62"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "89ee70f4d11da8011b8091da5b30adac374f1a2ac849343435f85c56b4c1b9ac"
+metafile = true
+
+[[files]]
+file = "mods/skull-hunt.toml"
+hash = "11ca45ce91a17a04df653bfe974b7759cef73e16d672716f772fecb9d7421956"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "e8bd65dbaa1cec8da1df4f903b8dc1a9db5aca82e56856c06fc284ff1b9a9a73"
+metafile = true
+
+[[files]]
+file = "mods/source3.toml"
+hash = "6f07a84cef7b3002fcce5e479ada9c694b89be9980ecc23265a3afa814892793"
+metafile = true
+
+[[files]]
+file = "mods/spooky-stuff.toml"
+hash = "e59cbcf83b02f2ff22c57750f0e8550bcd79652c884c7af1f00afc782ef84fa6"
+metafile = true
+
+[[files]]
+file = "mods/the_slab.toml"
+hash = "dd36b6a9031a55b8895888cdf5df255d05c57ffef57ba2df7f5857d145ea8aa9"
+metafile = true
+
+[[files]]
+file = "mods/tin.toml"
+hash = "370658368b268556391eff7cea6022451b0242f259bf6d1493804a1ce5ce120e"
+metafile = true
+
+[[files]]
+file = "mods/tinymap.toml"
+hash = "59c3889e35a873bbdb4542f0b7aa0cc9fe2be40747cdf651ffab930b3e964446"
+metafile = true
+
+[[files]]
+file = "mods/torch-out.toml"
+hash = "00b46798b33e3ee765974b9f3787295a9d9c36527fc078d14e5921f06d5f028d"
+metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"

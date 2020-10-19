@@ -1,0 +1,12 @@
+name = "Collectater"
+filename = "mod.jar"
+side = "both"
+
+[option]
+optional = false
+default = false
+
+[download]
+url = "http://modfestfiles.haykam.codes/fallfest/collectater/mod.jar"
+hash-format = "sha256"
+hash = "CEA5DA25B27D4C74A9154694B273BFD0807F2A758837028F77D5862B9EB5CC7B"

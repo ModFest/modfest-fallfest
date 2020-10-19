@@ -1,0 +1,12 @@
+name = "Ars Theurgia"
+filename = "arstheurgia-1.0.1.jar"
+side = "both"
+
+[option]
+optional = false
+default = false
+
+[download]
+url = "https://github.com/comofastm/ArsTheurgia/releases/download/1.0.1/arstheurgia-1.0.1.jar"
+hash-format = "sha256"
+hash = "95C946698ED30CDFF4A2874F53C3DFB67C15BA870A441E1A76B8D909D1735311"

@@ -1,0 +1,12 @@
+name = "Monster Mash"
+filename = "monster-mash-0.1.1.jar"
+side = "both"
+
+[option]
+optional = false
+default = false
+
+[download]
+url = "https://github.com/dandin87/Monster-Mash/releases/download/v0.1.1-beta/monster-mash-0.1.1.jar"
+hash-format = "sha256"
+hash = "EB348A7C02EAD01A6202FE2BC6491EC16E3C22EA33132BF8FAA17C7E08E561F5"

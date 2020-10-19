@@ -1,0 +1,12 @@
+name = "Phonos"
+filename = "phonos-0.0.1-alpha.jar"
+side = "both"
+
+[option]
+optional = false
+default = false
+
+[download]
+url = "https://github.com/FoundationGames/Phonos/releases/download/0.0.1-alpha/phonos-0.0.1-alpha.jar"
+hash-format = "sha256"
+hash = "8B89EBA0ED0272E90EACF27BAA42A6D13F00AAA076C1A121AEC44FFBD621A1CA"

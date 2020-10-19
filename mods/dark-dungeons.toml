@@ -1,0 +1,14 @@
+name = "Dark Dungeons (Fabric)"
+filename = "DarkDungeons-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3085/285/DarkDungeons-0.1.1.jar"
+hash-format = "murmur2"
+hash = "1022967977"
+
+[update]
+[update.curseforge]
+file-id = 3085285
+project-id = 412761
+release-channel = "beta"

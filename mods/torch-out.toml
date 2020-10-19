@@ -1,0 +1,12 @@
+name = "Torch Out"
+filename = "torchout-1.0.0+1.16.3.jar"
+side = "both"
+
+[option]
+optional = false
+default = false
+
+[download]
+url = "https://github.com/Boundarybreaker/TorchOut/releases/download/1.0.0%2B1.16.3/torchout-1.0.0+1.16.3.jar"
+hash-format = "sha256"
+hash = "F85C8AFD8643C87D4749CE04FCAF50C76CB4CE63B2150BB2EBDB082699F2DAE4"

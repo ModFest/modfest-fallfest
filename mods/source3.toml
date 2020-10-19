@@ -1,0 +1,12 @@
+name = "Source3"
+filename = "Source3-1.0.0.jar"
+side = "both"
+
+[option]
+optional = false
+default = false
+
+[download]
+url = "https://github.com/ramidzkh/Source3/releases/download/1.0.0/Source3-1.0.0.jar"
+hash-format = "sha256"
+hash = "64E7D834FD0AC96ACE9B35C51E7A86C43CB40E719D8096009547CC4C78890D73"

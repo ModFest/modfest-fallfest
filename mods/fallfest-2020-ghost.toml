@@ -1,0 +1,14 @@
+name = "The Ghost of Fallfest"
+filename = "fallfest116-ghost-1.16.x-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3083/598/fallfest116-ghost-1.16.x-1.2.1.jar"
+hash-format = "murmur2"
+hash = "1219455269"
+
+[update]
+[update.curseforge]
+file-id = 3083598
+project-id = 411694
+release-channel = "beta"

@@ -1,0 +1,12 @@
+name = "Ping Hats"
+filename = "mod.jar"
+side = "both"
+
+[option]
+optional = false
+default = false
+
+[download]
+url = "http://modfestfiles.haykam.codes/fallfest/pinghats/mod.jar"
+hash-format = "sha256"
+hash = "9BAB824E8BAF076FC4B117491758B4057807696A2DEFBA436E63FC6510AC3D6F"

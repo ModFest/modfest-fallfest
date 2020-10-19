@@ -1,0 +1,12 @@
+name = "Kingdoms and Curses"
+filename = "kingdoms-and-curses.jar"
+side = "both"
+
+[option]
+optional = false
+default = false
+
+[download]
+url = "https://cdn.discordapp.com/attachments/674795434996269122/765876399713943562/kingdoms-and-curses.jar"
+hash-format = "sha256"
+hash = "AE249000B6C853D3D63D8EF75185B8F75A71CB2621C149FCB5CF5F663C7AAB4C"

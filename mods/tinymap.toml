@@ -1,0 +1,12 @@
+name = "TinyMap"
+filename = "tinymap-1.0.0.jar"
+side = "both"
+
+[option]
+optional = false
+default = false
+
+[download]
+url = "https://github.com/comp500/tinymap/releases/download/1.0.0/tinymap-1.0.0.jar"
+hash-format = "sha256"
+hash = "AC9069BC59B5C62F9B82815A3EF4C08570E5F4CA0AE9A048C8B0D7677C0AD256"

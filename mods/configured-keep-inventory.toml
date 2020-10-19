@@ -1,0 +1,14 @@
+name = "Configured Keep Inventory"
+filename = "configuredkeepinventory-1.16.3-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3084/527/configuredkeepinventory-1.16.3-1.1.1.jar"
+hash-format = "murmur2"
+hash = "977637202"
+
+[update]
+[update.curseforge]
+file-id = 3084527
+project-id = 410969
+release-channel = "beta"
