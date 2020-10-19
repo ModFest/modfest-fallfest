@@ -9,4 +9,4 @@ default = false
 [download]
 url = "https://github.com/Earthcomputer/FallPano/releases/download/v1.0/fallpano-1.0.jar"
 hash-format = "sha256"
-hash = "162659F387B5A881CE506FE91A508449FF9D3804450428EEB72C15A082F88FEE"
+hash = "81808e6d501897acb07267ad531a42d709b81ebe4edf17a1a1cb543c78d135bb"

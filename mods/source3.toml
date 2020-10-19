@@ -9,4 +9,4 @@ default = false
 [download]
 url = "https://github.com/ramidzkh/Source3/releases/download/1.0.0/Source3-1.0.0.jar"
 hash-format = "sha256"
-hash = "64E7D834FD0AC96ACE9B35C51E7A86C43CB40E719D8096009547CC4C78890D73"
+hash = "64e7d834fd0ac96ace9b35c51e7a86c43cb40e719d8096009547cc4c78890d73"

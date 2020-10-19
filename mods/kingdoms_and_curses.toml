@@ -7,6 +7,6 @@ optional = false
 default = false
 
 [download]
-url = "https://cdn.discordapp.com/attachments/674795434996269122/765876399713943562/kingdoms-and-curses.jar"
+url = "https://cdn.discordapp.com/attachments/767132602003750912/767233857354334228/kingdoms-and-curses.jar"
 hash-format = "sha256"
-hash = "AE249000B6C853D3D63D8EF75185B8F75A71CB2621C149FCB5CF5F663C7AAB4C"
+hash = "a1d1bb0d2a8fc0605038145612e87cf8d823f97ec7b34c8b94933d81805d7e1c"

@@ -1,5 +1,5 @@
 name = "Collectater"
-filename = "mod.jar"
+filename = "collectater-1.0.0.jar"
 side = "both"
 
 [option]
@@ -7,6 +7,6 @@ optional = false
 default = false
 
 [download]
-url = "http://modfestfiles.haykam.codes/fallfest/collectater/mod.jar"
+url = "https://cdn.discordapp.com/attachments/767132602003750912/767487012516528158/collectater-1.0.0.jar"
 hash-format = "sha256"
-hash = "CEA5DA25B27D4C74A9154694B273BFD0807F2A758837028F77D5862B9EB5CC7B"
+hash = "0cb72a7af40218aaee16fddc0c4764b16612594a61c6cabc0b29332857018eab"

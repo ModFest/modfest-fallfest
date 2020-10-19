@@ -2,17 +2,17 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/annulus.toml"
-hash = "d80aa37729acd8e34c1bb60bfd0dfff12990083dfc16024ed14ea7a02483807c"
+hash = "262394ede87619ac6255ad8b7270c4bdad192de906166bee66105e0295289176"
 metafile = true
 
 [[files]]
 file = "mods/ars-theurgia.toml"
-hash = "78eff5a6bdd5b4c54ffcc20a6e88fbd1d2e81a9c5e286c7f01bc62f7acd8ca5f"
+hash = "0fc061d5a78f45247f38a2f0183047e80ef49f10dce6ef4013705209c6cbb45b"
 metafile = true
 
 [[files]]
 file = "mods/basicbillboards.toml"
-hash = "464e9cb8faf46a7547a5c0c3a6081b027c808467954ecfc3f8f98a9eb7bfa42a"
+hash = "e147f1a2222e0040f2131c5f14a3adcecac6f500023c8e575217cfe7c9ed646f"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/collectater.toml"
-hash = "84b2551a4a0055194cd6e35b7c307ee54bccfc7854c12b579f9954c95c8cf84b"
+hash = "5d18691f742145692487e9684563c23ae6bc8eb3a508abf4fb72047747b25f87"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/cuddly-lamp.toml"
-hash = "bb7fa3e4e25e2bae84429f3157d49bd170073675b1cee1cb081f724fd09b5adc"
+hash = "e0f1941354c1f8fd36cfd2d7822b55ae1c55d45f297e30155d481212026dd8eb"
 metafile = true
 
 [[files]]
@@ -57,12 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/eylium.toml"
-hash = "afba0050aa9080568d8b378dddf5eb0e19e27d0749c3436c83f7d360462ed7f7"
+hash = "aa1cf290d623560b7a53b91bbac38ff8366f368f65256c4828f18b91077da6bc"
 metafile = true
 
 [[files]]
 file = "mods/f21e.toml"
-hash = "8d322c3d223da1a28a963424261a42e7158c683a4e175484c48883d9eb94fdd2"
+hash = "6b94c18520575c568ae9ef818ee463002ff836cd2672dc901113e049827dd211"
 metafile = true
 
 [[files]]
@@ -82,17 +82,17 @@ metafile = true
 
 [[files]]
 file = "mods/fallmod.toml"
-hash = "f2212fbe8d18958ca316aec6b486e190ffaaca401fd3edb3af808a5163dd1ada"
+hash = "1e801a9865c508018d06cc166b83531bc9e460dbebddb57e82f8b47921adefc3"
 metafile = true
 
 [[files]]
 file = "mods/fallpano.toml"
-hash = "5927be4e50228bb63fab722acb409615df64bc17cdc9f9e73b26ddff00fb2244"
+hash = "1e26b10433a54a45ca3eef464ed4fc3d00fb6361dd5321a43a24c8032b645a6b"
 metafile = true
 
 [[files]]
 file = "mods/fracture.toml"
-hash = "ef7df21fb6745a9bbd461a26b30d5c3c0488f872ff1254afd89cc9e746784d95"
+hash = "28b2e14c4b3b0e0bad005fe1b37cb5fec429112abad680e79079e701d64f44a9"
 metafile = true
 
 [[files]]
@@ -102,12 +102,12 @@ metafile = true
 
 [[files]]
 file = "mods/graveyard-smash.toml"
-hash = "46259849e980a07ce1c85df18fd9339ff8c8a21383b657b6fa3978504ce639ec"
+hash = "69931fee60bbec9e8601a877c59413450c082db68a1474d8bd1bd48eae80677d"
 metafile = true
 
 [[files]]
 file = "mods/herobrine_rewoven.toml"
-hash = "bb41f1de6b8f0d16723618114ca637f6f0656de06da8860f3728f31e622d93af"
+hash = "50aec87b6824a02914ea9ae91f3bf2247a76b66bc37d3cee38f33838be382a6b"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/kingdoms_and_curses.toml"
-hash = "5a72015d0398545ea815bb6fce769b6e89f6193be008d77c2d40095b343ce0b0"
+hash = "3b13263ec2737a56e0103c9742dc4768ad3fb7a9095b42363f198bd03eec9a22"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/monster_mash.toml"
-hash = "93fcbe12445a93317553cc0b5a531785a5bc98eb714c0ed9091e269e596f0cac"
+hash = "b3090ee2853b4f3afe08c663eb86d9165c5a05b586325db7d7bd3f06ea8ae189"
 metafile = true
 
 [[files]]
@@ -142,12 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/phonos.toml"
-hash = "585451de5a34a4c3e86a41f26b991de1660f668510d49077cc806474a7ba2143"
+hash = "ec08013b29bf03d36c4f2fc28f916da8a7c452864f476f54d4bf70533e55030d"
 metafile = true
 
 [[files]]
 file = "mods/pinghats.toml"
-hash = "7e16f9171252ab126e581699df6f1b57a31cc1f45875717eaa185b92b625cf62"
+hash = "6c721c42485498b71485123878159b164e9d8e2ad1de1c99f1088d06ebcc3721"
 metafile = true
 
 [[files]]
@@ -157,35 +157,30 @@ metafile = true
 
 [[files]]
 file = "mods/skull-hunt.toml"
-hash = "11ca45ce91a17a04df653bfe974b7759cef73e16d672716f772fecb9d7421956"
+hash = "3633b437266732e831ffa7ed0e45319ef584d61d47d9c645e91272ca94d793c0"
 metafile = true
 
 [[files]]
 file = "mods/source3.toml"
-hash = "6f07a84cef7b3002fcce5e479ada9c694b89be9980ecc23265a3afa814892793"
+hash = "203badf5ef722b807e69483e97d6b5c9100431f21888ce70fc5e16bd2231a733"
 metafile = true
 
 [[files]]
 file = "mods/spooky-stuff.toml"
-hash = "e59cbcf83b02f2ff22c57750f0e8550bcd79652c884c7af1f00afc782ef84fa6"
+hash = "d1729b6922d89f4088c49b77e1687bb9a1c7546d71b716d4a8a34a55a6ebe68f"
 metafile = true
 
 [[files]]
 file = "mods/the_slab.toml"
-hash = "dd36b6a9031a55b8895888cdf5df255d05c57ffef57ba2df7f5857d145ea8aa9"
-metafile = true
-
-[[files]]
-file = "mods/tin.toml"
-hash = "370658368b268556391eff7cea6022451b0242f259bf6d1493804a1ce5ce120e"
+hash = "d54e719b4fec42a4480ff0272bfab7b7dd9bf2985386aa426696b81cff34cc6d"
 metafile = true
 
 [[files]]
 file = "mods/tinymap.toml"
-hash = "59c3889e35a873bbdb4542f0b7aa0cc9fe2be40747cdf651ffab930b3e964446"
+hash = "760061d2051c5049277513ef6ed4b45437987ae55a40430f94aa59cf56611090"
 metafile = true
 
 [[files]]
 file = "mods/torch-out.toml"
-hash = "00b46798b33e3ee765974b9f3787295a9d9c36527fc078d14e5921f06d5f028d"
+hash = "1a8e8cfff05ef3dd8cd07cb9443178e8f7c3e40be0e466a23197beaeb5b37a29"
 metafile = true

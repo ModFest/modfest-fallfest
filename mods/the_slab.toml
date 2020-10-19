@@ -1,5 +1,5 @@
 name = "The Slab, Also Siren Head"
-filename = "TheSlabAlsoSirenHead_ImmibisModfest3.1-1.0.0.jar"
+filename = "TheSlabAlsoSirenHead_ImmibisModfest3.1-1.0.1.jar"
 side = "both"
 
 [option]
@@ -7,6 +7,6 @@ optional = false
 default = false
 
 [download]
-url = "https://immibis.com/mcmodjam/TheSlabAlsoSirenHead_ImmibisModfest3.1-1.0.0.jar"
+url = "https://immibis.com/mcmodjam/TheSlabAlsoSirenHead_ImmibisModfest3.1-1.0.1.jar"
 hash-format = "sha256"
-hash = "C70C6A0B86B6D1DC57606E49CC0A2704B34DC81BE8E76EEB3D1C6D572606BE41"
+hash = "2b31e38c8be8730ee33254a68e62af3bbddfb6d7d9173b31d4e49ca6d8af7a15"

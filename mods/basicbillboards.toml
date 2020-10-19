@@ -9,4 +9,4 @@ default = false
 [download]
 url = "https://github.com/FoundationGames/BasicBillboards/releases/download/0.0.1-alpha/basicbillboards-0.0.1-alpha.jar"
 hash-format = "sha256"
-hash = "1CCF33533FAE8017A661360248B5EBA5CBBEC02B66495A3422353250DBB681B9"
+hash = "1ccf33533fae8017a661360248b5eba5cbbec02b66495a3422353250dbb681b9"

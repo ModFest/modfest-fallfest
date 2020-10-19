@@ -9,4 +9,4 @@ default = false
 [download]
 url = "https://cdn.discordapp.com/attachments/766404248421400616/766405165682130944/fracture-1.0.jar"
 hash-format = "sha256"
-hash = "C133484EE0D038CFF36CCEBB4FE7E1DE9B9C07F960E91751981C35F57810283A"
+hash = "c133484ee0d038cff36ccebb4fe7e1de9b9c07f960e91751981c35f57810283a"

@@ -9,4 +9,4 @@ default = false
 [download]
 url = "https://github.com/Sorenon/F21E/releases/download/v0.1.0/f21e-0.1.0.jar"
 hash-format = "sha256"
-hash = "50F9265490D2C663F177BE4484030B7405A9BC3F4CAA6452CA7980106E788B6A"
+hash = "50f9265490d2c663f177be4484030b7405a9bc3f4caa6452ca7980106e788b6a"

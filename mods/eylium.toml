@@ -1,5 +1,5 @@
 name = "Eylium"
-filename = "mod.jar"
+filename = "eylium-1.0.0.jar"
 side = "both"
 
 [option]
@@ -7,6 +7,6 @@ optional = false
 default = false
 
 [download]
-url = "http://modfestfiles.haykam.codes/fallfest/eylium/mod.jar"
+url = "https://cdn.discordapp.com/attachments/674795434996269122/767211269123080202/eylium-1.0.0.jar"
 hash-format = "sha256"
-hash = "CEA5DA25B27D4C74A9154694B273BFD0807F2A758837028F77D5862B9EB5CC7B"
+hash = "eccdd35d7675d57be6dda973805c1a5e4747fa01ace34229eacbc439252c4e1b"

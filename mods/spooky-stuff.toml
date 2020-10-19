@@ -9,4 +9,4 @@ default = false
 [download]
 url = "https://github.com/UltrusBot/SpookyStuff/releases/download/v0.5/spookystuff-0.1.jar"
 hash-format = "sha256"
-hash = "03FA99A425E07E1B1642128B272ACD36CD962EE4EBE020639BA55CDC99AB3CA0"
+hash = "03fa99a425e07e1b1642128b272acd36cd962ee4ebe020639ba55cdc99ab3ca0"

@@ -1,5 +1,5 @@
 name = "Ping Hats"
-filename = "mod.jar"
+filename = "pinghats-1.0.0.jar"
 side = "both"
 
 [option]
@@ -7,6 +7,6 @@ optional = false
 default = false
 
 [download]
-url = "http://modfestfiles.haykam.codes/fallfest/pinghats/mod.jar"
+url = "https://cdn.discordapp.com/attachments/767132602003750912/767504857573359616/pinghats-1.0.0.jar"
 hash-format = "sha256"
-hash = "9BAB824E8BAF076FC4B117491758B4057807696A2DEFBA436E63FC6510AC3D6F"
+hash = "193cd758b7b0015e17829f83bbfe8f957f44562eeaa354fa42db529218f35f26"

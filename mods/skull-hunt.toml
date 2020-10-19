@@ -9,4 +9,4 @@ default = false
 [download]
 url = "https://cdn.discordapp.com/attachments/766391581141762071/766392110034190396/gud_skullhunt-1.0.0.jar"
 hash-format = "sha256"
-hash = "DBF9203D61CEA93E32763C7517F690FCB08CFF0BD2AFB2E577198563328B8DCE"
+hash = "dbf9203d61cea93e32763c7517f690fcb08cff0bd2afb2e577198563328b8dce"
