@@ -16,6 +16,11 @@ hash = "464e9cb8faf46a7547a5c0c3a6081b027c808467954ecfc3f8f98a9eb7bfa42a"
 metafile = true
 
 [[files]]
+file = "mods/canvas-renderer.toml"
+hash = "43ead00e8da233616333735a78ffe9481355b91be62de51a1222199a9fdf83d3"
+metafile = true
+
+[[files]]
 file = "mods/carve-my-pumpkin.toml"
 hash = "b4b12b57095c2bdb87c8ed4fbf1e48f7720518f79ce417d010b0f1f3cb6dcb47"
 metafile = true
@@ -121,6 +126,11 @@ hash = "bcfb188f8f2b7eb27888fc07e222b3b4e4eb100880a5956710cbb393cb08b8db"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.toml"
+hash = "f9ff98a69bcbe357774fe7afb2a1426e118b503a56fceeb01e06100c4bdb8bc5"
+metafile = true
+
+[[files]]
 file = "mods/monster_mash.toml"
 hash = "93fcbe12445a93317553cc0b5a531785a5bc98eb714c0ed9091e269e596f0cac"
 metafile = true
@@ -148,11 +158,6 @@ metafile = true
 [[files]]
 file = "mods/skull-hunt.toml"
 hash = "11ca45ce91a17a04df653bfe974b7759cef73e16d672716f772fecb9d7421956"
-metafile = true
-
-[[files]]
-file = "mods/sodium.toml"
-hash = "e8bd65dbaa1cec8da1df4f903b8dc1a9db5aca82e56856c06fc284ff1b9a9a73"
 metafile = true
 
 [[files]]
