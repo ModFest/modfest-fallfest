@@ -146,11 +146,6 @@ hash = "98ad7ba7174b60f2cf54aa2463151a683ad1e4c4c046ee63b418863950e71e53"
 metafile = true
 
 [[files]]
-file = "mods/patchouli-fabric.toml"
-hash = "11f70fa552115472c41f991c41d2c1a7978d3ee94bb6bc51fe783108039e07e5"
-metafile = true
-
-[[files]]
 file = "mods/phonos.toml"
 hash = "66a5e375853c75867fedbc5a0e341a922eb7b3bc1973b2cbc56e0006466a4e29"
 metafile = true
