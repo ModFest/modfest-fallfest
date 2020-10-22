@@ -1,0 +1,14 @@
+name = "Pehkui"
+filename = "Pehkui-1.6.2+1.16.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3056/528/Pehkui-1.6.2+1.16.3.jar"
+hash-format = "murmur2"
+hash = "3758805001"
+
+[update]
+[update.curseforge]
+file-id = 3056528
+project-id = 319596
+release-channel = "beta"

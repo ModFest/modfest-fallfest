@@ -26,6 +26,11 @@ hash = "f432df8b41d82ac0808a0a5004a183d52dfabaf67676a68b7b22c0874cd51157"
 metafile = true
 
 [[files]]
+file = "mods/cca.toml"
+hash = "a7f9a7258cc3ebfc2b68f09fabf002bb7c8e87007cd45a04362f3f6c456b8869"
+metafile = true
+
+[[files]]
 file = "mods/collectater.toml"
 hash = "5d18691f742145692487e9684563c23ae6bc8eb3a508abf4fb72047747b25f87"
 metafile = true
@@ -121,6 +126,11 @@ hash = "248279f6890be50e789f20c928b4b839455473c7d1cf28ab3ea585aaa7282f24"
 metafile = true
 
 [[files]]
+file = "mods/hwyla.toml"
+hash = "e37316132d574a8472b50140adf0816b2f2b7cacf7f391ea6fe4b8be7cbe4b73"
+metafile = true
+
+[[files]]
 file = "mods/ignis-fatuus.toml"
 hash = "fcc4c547a11c59b54085e7bf3c99ea75dbccac22baef89bd9ff083d5c609a95f"
 metafile = true
@@ -148,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.toml"
 hash = "98ad7ba7174b60f2cf54aa2463151a683ad1e4c4c046ee63b418863950e71e53"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.toml"
+hash = "56e449b212fda83aac68542e284f9c5ac973148b254315e8015de361b5ad628c"
 metafile = true
 
 [[files]]
