@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallpano.toml"
-hash = "1e26b10433a54a45ca3eef464ed4fc3d00fb6361dd5321a43a24c8032b645a6b"
+hash = "ef33eaa0f92e355686fc2f92d44b7d7e96b495297c8d69b32468eddb75731d88"
 metafile = true
 
 [[files]]
