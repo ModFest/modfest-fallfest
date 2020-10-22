@@ -71,6 +71,11 @@ hash = "1f6e565809e72b9bb179ac4b5904e4e1d8e3a0c09d1b61ee9a01536817a09d54"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "a3dc5e4111a18214315645b023b4477d8548516223faf5c639f90348cb199614"
+metafile = true
+
+[[files]]
 file = "mods/fallfest-2020-ghost.toml"
 hash = "22ed4615e4f34c1fac3503537299bf2664327f7437ed824b44f2ed14b96de23d"
 metafile = true
