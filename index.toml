@@ -51,6 +51,11 @@ hash = "c53c097151402a38e164d2cc626924d9f69dcf756d6b925462cd0f492d218ac0"
 metafile = true
 
 [[files]]
+file = "mods/dracotrem.toml"
+hash = "489be970b22bb58d6842ac05fcd5e2c63620684ddb4f4800facdd528da468b7d"
+metafile = true
+
+[[files]]
 file = "mods/enderboys.toml"
 hash = "acc208874fb84b27f3570f9ed6a9e6e4f49c089850ebf172220330c62106b454"
 metafile = true

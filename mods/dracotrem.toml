@@ -1,0 +1,12 @@
+name = "DracoTrem"
+filename = "DracoTrem-1.0.jar"
+side = "both"
+
+[option]
+optional = false
+default = false
+
+[download]
+url = "https://cdn.discordapp.com/attachments/767132602003750912/768962041716277258/DracoTrem-1.0.jar"
+hash-format = "sha256"
+hash = "e97a6e69a7ac370fd7a75d9df5e3f269af2686d831f592c2d14822f6b99ec35c"
