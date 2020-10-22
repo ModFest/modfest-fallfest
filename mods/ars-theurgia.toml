@@ -7,6 +7,6 @@ optional = false
 default = false
 
 [download]
-url = "https://github.com/comofastm/ArsTheurgia/releases/download/1.0.2/arstheurgia-1.0.2.jar"
+url = "https://github.com/comofastm/ArsTheurgia/releases/download/1.0.3/arstheurgia-1.0.3.jar"
 hash-format = "sha256"
-hash = "81a077bdabf9edc7818ce55d9dec2768f80b228f723f4c85f5f44d079213d5e8"
+hash = "4a6e359c2e3c2e2b56d2124b53e9a4f9768a4a36562adfcd374c3f5397e4d986"

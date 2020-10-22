@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-theurgia.toml"
-hash = "0fc061d5a78f45247f38a2f0183047e80ef49f10dce6ef4013705209c6cbb45b"
+hash = "13585d307e5b139cefa2066c96385e277a69f5dbc3aa0f81073bcd487a12ff2f"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/herobrine_rewoven.toml"
-hash = "50aec87b6824a02914ea9ae91f3bf2247a76b66bc37d3cee38f33838be382a6b"
+hash = "248279f6890be50e789f20c928b4b839455473c7d1cf28ab3ea585aaa7282f24"
 metafile = true
 
 [[files]]
