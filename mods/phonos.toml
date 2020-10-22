@@ -7,6 +7,6 @@ optional = false
 default = false
 
 [download]
-url = "https://github.com/FoundationGames/Phonos/releases/download/0.0.1-alpha/phonos-0.0.1-alpha.jar"
+url = "https://github.com/FoundationGames/Phonos/releases/download/0.0.2-alpha/phonos-0.0.2-alpha.jar"
 hash-format = "sha256"
-hash = "8b89eba0ed0272e90eacf27baa42a6d13f00aaa076c1a121aec44ffbd621a1ca"
+hash = "bc5c4b0512a8bc28f421309a5627a839b48226b2729c02b4aca774607e563dd9"
