@@ -1,0 +1,12 @@
+name = "Novaturient Agriculture"
+filename = "novaturient-agriculture-0.1.0+mc.1.16.3.jar"
+side = "both"
+
+[option]
+optional = false
+default = false
+
+[download]
+url = "https://github.com/franiscoder/novaturient-agriculture/releases/download/0.1.0/novaturient-agriculture-0.1.0+mc.1.16.3.jar"
+hash-format = "sha256"
+hash = "611f5c0a9174303c105ee8c4c8de220bcb4dfd901087d1c74a38625d94f243dd"

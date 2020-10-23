@@ -161,6 +161,11 @@ hash = "c7880cb09512c5086c43a94a70e575290d036e825a03ae58afcd7409023110d0"
 metafile = true
 
 [[files]]
+file = "mods/novaturient-agriculture.toml"
+hash = "d31876e4114944d90d5963aaef3ea3d9495917e04c21fa48533c6155b2395d46"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.toml"
 hash = "98ad7ba7174b60f2cf54aa2463151a683ad1e4c4c046ee63b418863950e71e53"
 metafile = true
