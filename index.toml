@@ -146,6 +146,11 @@ hash = "f77720339aa7fe634bebde6bbbbbe0e676d3b83afc99eda97a40c94c5d57e924"
 metafile = true
 
 [[files]]
+file = "mods/makkit.toml"
+hash = "e84a005cfab8482376e2598f7fff2d4eb11e387dbef4f908bdbfc2a9122e6124"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "c83a0d9b5240ba83ce96f0c374560a9a8f958cdc261fe662aba2a38999ba92ee"
 metafile = true

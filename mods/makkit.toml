@@ -1,0 +1,14 @@
+name = "Makkit"
+filename = "makkit-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3045/583/makkit-1.1.0.jar"
+hash-format = "murmur2"
+hash = "1190946450"
+
+[update]
+[update.curseforge]
+file-id = 3045583
+project-id = 381507
+release-channel = "beta"
