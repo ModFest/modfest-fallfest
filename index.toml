@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/collectater.toml"
-hash = "5d18691f742145692487e9684563c23ae6bc8eb3a508abf4fb72047747b25f87"
+hash = "75ae236e60a58681fa4bff654a69dcbd1f4669f66c67e1f2a831cf6c026ee880"
 metafile = true
 
 [[files]]
