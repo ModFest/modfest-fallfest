@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallfest-2020-ghost.toml"
-hash = "22ed4615e4f34c1fac3503537299bf2664327f7437ed824b44f2ed14b96de23d"
+hash = "ac81dce2d4da0e59c2fe17ddb226f32404fb1716c9326e96a7a30da316f71e0c"
 metafile = true
 
 [[files]]

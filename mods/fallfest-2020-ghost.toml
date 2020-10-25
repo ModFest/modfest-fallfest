@@ -1,14 +1,14 @@
 name = "The Ghost of Fallfest"
-filename = "fallfest116-ghost-1.16.x-1.2.1.jar"
+filename = "fallfest116-ghost-1.16.3-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3083/598/fallfest116-ghost-1.16.x-1.2.1.jar"
+url = "https://edge.forgecdn.net/files/3088/200/fallfest116-ghost-1.16.3-1.2.2.jar"
 hash-format = "murmur2"
-hash = "1219455269"
+hash = "2169096323"
 
 [update]
 [update.curseforge]
-file-id = 3083598
+file-id = 3088200
 project-id = 411694
 release-channel = "beta"
