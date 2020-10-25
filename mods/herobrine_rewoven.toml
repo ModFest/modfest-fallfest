@@ -7,6 +7,6 @@ optional = false
 default = false
 
 [download]
-url = "https://jenkins.thebrokenrail.com/job/Herobrine-Rewoven/job/master/lastSuccessfulBuild/artifact/build/libs/herobrine-rewoven-1.0.0+1.16.3.jar"
+url = "https://cdn.discordapp.com/attachments/767132602003750912/770012512048906280/herobrine-rewoven-1.0.01.16.3.jar"
 hash-format = "sha256"
 hash = "ba1451abc81d1413caaf4a848fef67f9f1e12fd01c0a40b32c1434c025e1a820"
