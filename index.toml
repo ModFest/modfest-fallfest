@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/annulus.toml"
-hash = "262394ede87619ac6255ad8b7270c4bdad192de906166bee66105e0295289176"
-metafile = true
-
-[[files]]
 file = "mods/ars-theurgia.toml"
 hash = "60f19b81909125734737be7aef89ac1e50e5c2517bf3afdd234fa26945b60de3"
 metafile = true
