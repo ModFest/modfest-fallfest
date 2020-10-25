@@ -1,5 +1,5 @@
 name = "Ars Theurgia"
-filename = "arstheurgia-1.0.3.jar"
+filename = "arstheurgia-1.0.4.jar"
 side = "both"
 
 [option]
@@ -7,6 +7,6 @@ optional = false
 default = false
 
 [download]
-url = "https://github.com/comofastm/ArsTheurgia/releases/download/1.0.3/arstheurgia-1.0.3.jar"
+url = "https://github.com/comofastm/ArsTheurgia/releases/download/1.0.4/arstheurgia-1.0.4.jar"
 hash-format = "sha256"
-hash = "4a6e359c2e3c2e2b56d2124b53e9a4f9768a4a36562adfcd374c3f5397e4d986"
+hash = "9e3eba05c2586ab4602db18daa79d5bbf9cda008d05b0c07b79ae6e26838ad1b"

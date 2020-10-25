@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/ars-theurgia.toml"
-hash = "60f19b81909125734737be7aef89ac1e50e5c2517bf3afdd234fa26945b60de3"
+hash = "36dc19ad5bb2c02cb57fb82aff88812aee9eacfe11f18a59113508a308c02084"
 metafile = true
 
 [[files]]

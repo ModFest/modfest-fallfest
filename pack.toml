@@ -3,7 +3,7 @@ name = "FallFest"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3ca4725de7c5e6b05416a2ada8790438bd8e43630c5e4ef3e7dd4f7f732dac95"
+hash = "d0fc0d786b5fc826348d720ec9f085d184b214f7621ad545b240657aefa8a18f"
 
 [versions]
 fabric = "0.10.2+build.210"
