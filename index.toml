@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/basicbillboards.toml"
-hash = "e147f1a2222e0040f2131c5f14a3adcecac6f500023c8e575217cfe7c9ed646f"
+hash = "f1888de9d8a13915cc3e068edc5d943457a42e97b240064778675b0fe83b3175"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/source3.toml"
-hash = "203badf5ef722b807e69483e97d6b5c9100431f21888ce70fc5e16bd2231a733"
+hash = "5c7d567b80e272862ad0d0045af8d539ba4d67bcf8a26ba1afa91286264adc2b"
 metafile = true
 
 [[files]]
