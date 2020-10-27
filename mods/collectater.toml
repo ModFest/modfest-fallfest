@@ -1,5 +1,5 @@
 name = "Collectater"
-filename = "collectater-1.0.0-SNAPSHOT.jar"
+filename = "collectater-1.0.1.jar"
 side = "both"
 
 [option]
@@ -7,6 +7,6 @@ optional = false
 default = false
 
 [download]
-url = "https://cdn.discordapp.com/attachments/432750457664962602/769658530948055070/collectater-1.0.0-SNAPSHOT.jar"
+url = "https://cdn.discordapp.com/attachments/767132602003750912/770477000330575892/collectater-1.0.1.jar"
 hash-format = "sha256"
-hash = "f917a3be5d49779b3e2e06671c040bef9d263413546ac7b064cb550b34b4ec38"
+hash = "bda248653e97cfa3d8c39434fe0f5a858c18f4723c3fc10c2325b0bae25e68ef"
