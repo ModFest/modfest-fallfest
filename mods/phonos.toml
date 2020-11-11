@@ -1,12 +1,14 @@
 name = "Phonos"
-filename = "phonos-0.0.1-alpha.jar"
+filename = "phonos-0.1.0-beta.jar"
 side = "both"
 
-[option]
-optional = false
-default = false
-
 [download]
-url = "https://github.com/FoundationGames/Phonos/releases/download/0.0.2-alpha/phonos-0.0.2-alpha.jar"
-hash-format = "sha256"
-hash = "bc5c4b0512a8bc28f421309a5627a839b48226b2729c02b4aca774607e563dd9"
+url = "https://edge.forgecdn.net/files/3107/18/phonos-0.1.0-beta.jar"
+hash-format = "murmur2"
+hash = "168046332"
+
+[update]
+[update.curseforge]
+file-id = 3107018
+project-id = 417003
+release-channel = "beta"
