@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/Cardinal-Components-API-2.7.1.jar"
+hash = "ba2078f49b70f2ddc8c959d2cae6ae217cd5c3bffd3391678057b5a1727f2ebe"
+
+[[files]]
+file = "mods/DracoTrem-1.0.jar"
+hash = "e97a6e69a7ac370fd7a75d9df5e3f269af2686d831f592c2d14822f6b99ec35c"
+
+[[files]]
 file = "mods/ars-theurgia.toml"
 hash = "36dc19ad5bb2c02cb57fb82aff88812aee9eacfe11f18a59113508a308c02084"
 metafile = true
@@ -21,14 +29,8 @@ hash = "f432df8b41d82ac0808a0a5004a183d52dfabaf67676a68b7b22c0874cd51157"
 metafile = true
 
 [[files]]
-file = "mods/cca.toml"
-hash = "a7f9a7258cc3ebfc2b68f09fabf002bb7c8e87007cd45a04362f3f6c456b8869"
-metafile = true
-
-[[files]]
-file = "mods/collectater.toml"
-hash = "1426fefd0da94a81b2fad03bf8082949567e07d8037fb686b97a5844b25a4b23"
-metafile = true
+file = "mods/collectater-1.0.1.jar"
+hash = "bda248653e97cfa3d8c39434fe0f5a858c18f4723c3fc10c2325b0bae25e68ef"
 
 [[files]]
 file = "mods/configured-keep-inventory.toml"
@@ -51,19 +53,13 @@ hash = "c53c097151402a38e164d2cc626924d9f69dcf756d6b925462cd0f492d218ac0"
 metafile = true
 
 [[files]]
-file = "mods/dracotrem.toml"
-hash = "489be970b22bb58d6842ac05fcd5e2c63620684ddb4f4800facdd528da468b7d"
-metafile = true
-
-[[files]]
 file = "mods/enderboys.toml"
 hash = "acc208874fb84b27f3570f9ed6a9e6e4f49c089850ebf172220330c62106b454"
 metafile = true
 
 [[files]]
-file = "mods/eylium.toml"
-hash = "aa1cf290d623560b7a53b91bbac38ff8366f368f65256c4828f18b91077da6bc"
-metafile = true
+file = "mods/eylium-1.0.0.jar"
+hash = "eccdd35d7675d57be6dda973805c1a5e4747fa01ace34229eacbc439252c4e1b"
 
 [[files]]
 file = "mods/f21e.toml"
@@ -101,9 +97,8 @@ hash = "ef33eaa0f92e355686fc2f92d44b7d7e96b495297c8d69b32468eddb75731d88"
 metafile = true
 
 [[files]]
-file = "mods/fracture.toml"
-hash = "28b2e14c4b3b0e0bad005fe1b37cb5fec429112abad680e79079e701d64f44a9"
-metafile = true
+file = "mods/fracture-1.0.jar"
+hash = "c133484ee0d038cff36ccebb4fe7e1de9b9c07f960e91751981c35f57810283a"
 
 [[files]]
 file = "mods/geckolib-fabric.toml"
@@ -116,9 +111,12 @@ hash = "69931fee60bbec9e8601a877c59413450c082db68a1474d8bd1bd48eae80677d"
 metafile = true
 
 [[files]]
-file = "mods/herobrine_rewoven.toml"
-hash = "0ca18a8c880961eb5fba76fb9541772b7d06ec734d3405f8269a9691fd33ef53"
-metafile = true
+file = "mods/gud_skullhunt-1.0.0.jar"
+hash = "dbf9203d61cea93e32763c7517f690fcb08cff0bd2afb2e577198563328b8dce"
+
+[[files]]
+file = "mods/herobrine-rewoven-1.0.01.16.3.jar"
+hash = "ba1451abc81d1413caaf4a848fef67f9f1e12fd01c0a40b32c1434c025e1a820"
 
 [[files]]
 file = "mods/hwyla.toml"
@@ -131,9 +129,8 @@ hash = "fcc4c547a11c59b54085e7bf3c99ea75dbccac22baef89bd9ff083d5c609a95f"
 metafile = true
 
 [[files]]
-file = "mods/kingdoms_and_curses.toml"
-hash = "3b13263ec2737a56e0103c9742dc4768ad3fb7a9095b42363f198bd03eec9a22"
-metafile = true
+file = "mods/kingdoms-and-curses.jar"
+hash = "a1d1bb0d2a8fc0605038145612e87cf8d823f97ec7b34c8b94933d81805d7e1c"
 
 [[files]]
 file = "mods/lithium.toml"
@@ -176,18 +173,12 @@ hash = "a450869a4add238eb89410209f398aa4f1008c651595673c9dace844692e734b"
 metafile = true
 
 [[files]]
-file = "mods/pinghats.toml"
-hash = "6c721c42485498b71485123878159b164e9d8e2ad1de1c99f1088d06ebcc3721"
-metafile = true
+file = "mods/pinghats-1.0.0.jar"
+hash = "193cd758b7b0015e17829f83bbfe8f957f44562eeaa354fa42db529218f35f26"
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "84e85d54ea8e2f9f7415b3e8980fe3c3bb3b39ad59967502a0b03ce0d6db9c93"
-metafile = true
-
-[[files]]
-file = "mods/skull-hunt.toml"
-hash = "3633b437266732e831ffa7ed0e45319ef584d61d47d9c645e91272ca94d793c0"
 metafile = true
 
 [[files]]

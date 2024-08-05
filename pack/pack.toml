@@ -1,9 +1,12 @@
 name = "FallFest"
+author = "ModFest"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "392f9551968d2cd1249b7cdfb7355a188ac61ce45362ba8207ce04a341199235"
+hash = "cd9901b6d37d0747729bde43fa86beac4c5fd5d107d260459192765edb6b3d6e"
 
 [versions]
 fabric = "0.10.2+build.210"
