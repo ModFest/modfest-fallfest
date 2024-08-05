@@ -187,9 +187,8 @@ hash = "5c7d567b80e272862ad0d0045af8d539ba4d67bcf8a26ba1afa91286264adc2b"
 metafile = true
 
 [[files]]
-file = "mods/spooky-stuff.toml"
-hash = "d1729b6922d89f4088c49b77e1687bb9a1c7546d71b716d4a8a34a55a6ebe68f"
-metafile = true
+file = "mods/spookystuff-0.1.jar"
+hash = "03fa99a425e07e1b1642128b272acd36cd962ee4ebe020639ba55cdc99ab3ca0"
 
 [[files]]
 file = "mods/the_slab.toml"
