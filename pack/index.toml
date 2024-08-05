@@ -9,6 +9,10 @@ file = "mods/DracoTrem-1.0.jar"
 hash = "e97a6e69a7ac370fd7a75d9df5e3f269af2686d831f592c2d14822f6b99ec35c"
 
 [[files]]
+file = "mods/Source3-1.0.1.jar"
+hash = "c0c9bb223c49eb9899c4d4b67548b96cabf1a0fe5ac569f43552393f884db3dc"
+
+[[files]]
 file = "mods/ars-theurgia.toml"
 hash = "36dc19ad5bb2c02cb57fb82aff88812aee9eacfe11f18a59113508a308c02084"
 metafile = true
@@ -178,11 +182,6 @@ hash = "193cd758b7b0015e17829f83bbfe8f957f44562eeaa354fa42db529218f35f26"
 [[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "84e85d54ea8e2f9f7415b3e8980fe3c3bb3b39ad59967502a0b03ce0d6db9c93"
-metafile = true
-
-[[files]]
-file = "mods/source3.toml"
-hash = "5c7d567b80e272862ad0d0045af8d539ba4d67bcf8a26ba1afa91286264adc2b"
 metafile = true
 
 [[files]]
