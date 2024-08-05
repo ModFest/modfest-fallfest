@@ -1,1 +1,4 @@
-export.zip
+.idea/
+.DS_Store
+
+*.mrpack
