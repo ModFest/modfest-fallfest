@@ -62,9 +62,8 @@ file = "mods/eylium-1.0.0.jar"
 hash = "eccdd35d7675d57be6dda973805c1a5e4747fa01ace34229eacbc439252c4e1b"
 
 [[files]]
-file = "mods/f21e.toml"
-hash = "6b94c18520575c568ae9ef818ee463002ff836cd2672dc901113e049827dd211"
-metafile = true
+file = "mods/f21e-0.1.0.jar"
+hash = "50f9265490d2c663f177be4484030b7405a9bc3f4caa6452ca7980106e788b6a"
 
 [[files]]
 file = "mods/fabric-api.toml"
