@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "ModFest"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/Cardinal-Components-API-2.7.1.jar"
 hash = "ba2078f49b70f2ddc8c959d2cae6ae217cd5c3bffd3391678057b5a1727f2ebe"
 
