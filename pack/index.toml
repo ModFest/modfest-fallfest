@@ -13,22 +13,22 @@ file = "mods/Source3-1.0.1.jar"
 hash = "c0c9bb223c49eb9899c4d4b67548b96cabf1a0fe5ac569f43552393f884db3dc"
 
 [[files]]
-file = "mods/ars-theurgia.toml"
+file = "mods/ars-theurgia.pw.toml"
 hash = "36dc19ad5bb2c02cb57fb82aff88812aee9eacfe11f18a59113508a308c02084"
 metafile = true
 
 [[files]]
-file = "mods/basicbillboards.toml"
+file = "mods/basicbillboards.pw.toml"
 hash = "f1888de9d8a13915cc3e068edc5d943457a42e97b240064778675b0fe83b3175"
 metafile = true
 
 [[files]]
-file = "mods/canvas-renderer.toml"
+file = "mods/canvas-renderer.pw.toml"
 hash = "5cbeafe6d477e4bf76829873a09204e0e4830a2f8f66ffe3c5bf0fce203cd31b"
 metafile = true
 
 [[files]]
-file = "mods/carve-my-pumpkin.toml"
+file = "mods/carve-my-pumpkin.pw.toml"
 hash = "f432df8b41d82ac0808a0a5004a183d52dfabaf67676a68b7b22c0874cd51157"
 metafile = true
 
@@ -37,27 +37,27 @@ file = "mods/collectater-1.0.1.jar"
 hash = "bda248653e97cfa3d8c39434fe0f5a858c18f4723c3fc10c2325b0bae25e68ef"
 
 [[files]]
-file = "mods/configured-keep-inventory.toml"
+file = "mods/configured-keep-inventory.pw.toml"
 hash = "8fa75f4e10502c5f788fcf0cf020035551ca83986c52cc4b5c6c5cb24baba14a"
 metafile = true
 
 [[files]]
-file = "mods/cuddly-lamp.toml"
+file = "mods/cuddly-lamp.pw.toml"
 hash = "e0f1941354c1f8fd36cfd2d7822b55ae1c55d45f297e30155d481212026dd8eb"
 metafile = true
 
 [[files]]
-file = "mods/dark-dungeons.toml"
+file = "mods/dark-dungeons.pw.toml"
 hash = "194584b9f845f93a86641f92d693bdfc4d1b3627505522a8eac02d5b137aaabf"
 metafile = true
 
 [[files]]
-file = "mods/doot-in-the-night.toml"
+file = "mods/doot-in-the-night.pw.toml"
 hash = "c53c097151402a38e164d2cc626924d9f69dcf756d6b925462cd0f492d218ac0"
 metafile = true
 
 [[files]]
-file = "mods/enderboys.toml"
+file = "mods/enderboys.pw.toml"
 hash = "acc208874fb84b27f3570f9ed6a9e6e4f49c089850ebf172220330c62106b454"
 metafile = true
 
@@ -70,32 +70,32 @@ file = "mods/f21e-0.1.0.jar"
 hash = "50f9265490d2c663f177be4484030b7405a9bc3f4caa6452ca7980106e788b6a"
 
 [[files]]
-file = "mods/fabric-api.toml"
+file = "mods/fabric-api.pw.toml"
 hash = "af65aa2fde6742c0178ec0951c25599bf9d1546785fa30fb6024f5d81edd4111"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.toml"
+file = "mods/fabric-language-kotlin.pw.toml"
 hash = "a3dc5e4111a18214315645b023b4477d8548516223faf5c639f90348cb199614"
 metafile = true
 
 [[files]]
-file = "mods/fallfest-2020-ghost.toml"
+file = "mods/fallfest-2020-ghost.pw.toml"
 hash = "ac81dce2d4da0e59c2fe17ddb226f32404fb1716c9326e96a7a30da316f71e0c"
 metafile = true
 
 [[files]]
-file = "mods/fallfest-leaves.toml"
+file = "mods/fallfest-leaves.pw.toml"
 hash = "1463df5a5a840375673e85404aefe5f1834a0b54056d39fe92fb58f9c2cc2686"
 metafile = true
 
 [[files]]
-file = "mods/fallmod.toml"
+file = "mods/fallmod.pw.toml"
 hash = "1e801a9865c508018d06cc166b83531bc9e460dbebddb57e82f8b47921adefc3"
 metafile = true
 
 [[files]]
-file = "mods/fallpano.toml"
+file = "mods/fallpano.pw.toml"
 hash = "ef33eaa0f92e355686fc2f92d44b7d7e96b495297c8d69b32468eddb75731d88"
 metafile = true
 
@@ -104,12 +104,12 @@ file = "mods/fracture-1.0.jar"
 hash = "c133484ee0d038cff36ccebb4fe7e1de9b9c07f960e91751981c35f57810283a"
 
 [[files]]
-file = "mods/geckolib-fabric.toml"
+file = "mods/geckolib-fabric.pw.toml"
 hash = "38b36b07c11f48889a16407d3d528f2e718797ecd7f1419690ea71990704e566"
 metafile = true
 
 [[files]]
-file = "mods/graveyard-smash.toml"
+file = "mods/graveyard-smash.pw.toml"
 hash = "69931fee60bbec9e8601a877c59413450c082db68a1474d8bd1bd48eae80677d"
 metafile = true
 
@@ -122,12 +122,12 @@ file = "mods/herobrine-rewoven-1.0.01.16.3.jar"
 hash = "ba1451abc81d1413caaf4a848fef67f9f1e12fd01c0a40b32c1434c025e1a820"
 
 [[files]]
-file = "mods/hwyla.toml"
+file = "mods/hwyla.pw.toml"
 hash = "e37316132d574a8472b50140adf0816b2f2b7cacf7f391ea6fe4b8be7cbe4b73"
 metafile = true
 
 [[files]]
-file = "mods/ignis-fatuus.toml"
+file = "mods/ignis-fatuus.pw.toml"
 hash = "fcc4c547a11c59b54085e7bf3c99ea75dbccac22baef89bd9ff083d5c609a95f"
 metafile = true
 
@@ -136,42 +136,42 @@ file = "mods/kingdoms-and-curses.jar"
 hash = "a1d1bb0d2a8fc0605038145612e87cf8d823f97ec7b34c8b94933d81805d7e1c"
 
 [[files]]
-file = "mods/lithium.toml"
+file = "mods/lithium.pw.toml"
 hash = "f77720339aa7fe634bebde6bbbbbe0e676d3b83afc99eda97a40c94c5d57e924"
 metafile = true
 
 [[files]]
-file = "mods/makkit.toml"
+file = "mods/makkit.pw.toml"
 hash = "e84a005cfab8482376e2598f7fff2d4eb11e387dbef4f908bdbfc2a9122e6124"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.toml"
+file = "mods/modmenu.pw.toml"
 hash = "c83a0d9b5240ba83ce96f0c374560a9a8f958cdc261fe662aba2a38999ba92ee"
 metafile = true
 
 [[files]]
-file = "mods/monster_mash.toml"
+file = "mods/monster_mash.pw.toml"
 hash = "c7880cb09512c5086c43a94a70e575290d036e825a03ae58afcd7409023110d0"
 metafile = true
 
 [[files]]
-file = "mods/novaturient-agriculture.toml"
+file = "mods/novaturient-agriculture.pw.toml"
 hash = "d31876e4114944d90d5963aaef3ea3d9495917e04c21fa48533c6155b2395d46"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer.toml"
+file = "mods/ok-zoomer.pw.toml"
 hash = "98ad7ba7174b60f2cf54aa2463151a683ad1e4c4c046ee63b418863950e71e53"
 metafile = true
 
 [[files]]
-file = "mods/pehkui.toml"
+file = "mods/pehkui.pw.toml"
 hash = "56e449b212fda83aac68542e284f9c5ac973148b254315e8015de361b5ad628c"
 metafile = true
 
 [[files]]
-file = "mods/phonos.toml"
+file = "mods/phonos.pw.toml"
 hash = "a450869a4add238eb89410209f398aa4f1008c651595673c9dace844692e734b"
 metafile = true
 
@@ -180,7 +180,7 @@ file = "mods/pinghats-1.0.0.jar"
 hash = "193cd758b7b0015e17829f83bbfe8f957f44562eeaa354fa42db529218f35f26"
 
 [[files]]
-file = "mods/roughly-enough-items.toml"
+file = "mods/roughly-enough-items.pw.toml"
 hash = "84e85d54ea8e2f9f7415b3e8980fe3c3bb3b39ad59967502a0b03ce0d6db9c93"
 metafile = true
 
@@ -189,16 +189,16 @@ file = "mods/spookystuff-0.1.jar"
 hash = "03fa99a425e07e1b1642128b272acd36cd962ee4ebe020639ba55cdc99ab3ca0"
 
 [[files]]
-file = "mods/the_slab.toml"
+file = "mods/the_slab.pw.toml"
 hash = "d54e719b4fec42a4480ff0272bfab7b7dd9bf2985386aa426696b81cff34cc6d"
 metafile = true
 
 [[files]]
-file = "mods/tinymap.toml"
+file = "mods/tinymap.pw.toml"
 hash = "760061d2051c5049277513ef6ed4b45437987ae55a40430f94aa59cf56611090"
 metafile = true
 
 [[files]]
-file = "mods/torch-out.toml"
+file = "mods/torch-out.pw.toml"
 hash = "1a8e8cfff05ef3dd8cd07cb9443178e8f7c3e40be0e466a23197beaeb5b37a29"
 metafile = true
