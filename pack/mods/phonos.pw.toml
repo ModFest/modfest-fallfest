@@ -1,14 +1,13 @@
 name = "Phonos"
-filename = "phonos-0.1.0-beta.jar"
+filename = "phonos-0.1.1-beta.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3107/18/phonos-0.1.0-beta.jar"
-hash-format = "murmur2"
-hash = "168046332"
+url = "https://cdn.modrinth.com/data/z5KH0yKE/versions/0.1.1-beta/phonos-0.1.1-beta.jar"
+hash-format = "sha1"
+hash = "8d1d2013c710f51a77c7c3d05c5247d580d56ef5"
 
 [update]
-[update.curseforge]
-file-id = 3107018
-project-id = 417003
-release-channel = "beta"
+[update.modrinth]
+mod-id = "z5KH0yKE"
+version = "jWVNcslQ"
