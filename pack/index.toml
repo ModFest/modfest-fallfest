@@ -202,3 +202,15 @@ metafile = true
 file = "mods/torch-out.pw.toml"
 hash = "1a8e8cfff05ef3dd8cd07cb9443178e8f7c3e40be0e466a23197beaeb5b37a29"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "bb90abb0d192399ac218414c8e87114f25b21f4affd5733430e2bf79d4d69005"
+
+[[files]]
+file = "server-icon.png"
+hash = "ecb2a77ee42de4e74305b418d952de21d3545399927783abce8c8407a41a8ac2"
+
+[[files]]
+file = "server.properties"
+hash = "d8386932a6c86fd825a97b59eb106cfce0a144aec4a0961a39ee4962156cf6e8"
